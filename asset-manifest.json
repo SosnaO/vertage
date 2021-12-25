@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vertage/static/css/main.d4a9dcf1.chunk.css",
+    "main.js": "/vertage/static/js/main.2b4f5005.chunk.js",
+    "main.js.map": "/vertage/static/js/main.2b4f5005.chunk.js.map",
+    "runtime-main.js": "/vertage/static/js/runtime-main.c939b34f.js",
+    "runtime-main.js.map": "/vertage/static/js/runtime-main.c939b34f.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/vertage/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.d5097138.chunk.js": "/vertage/static/js/2.d5097138.chunk.js",
+    "static/js/2.d5097138.chunk.js.map": "/vertage/static/js/2.d5097138.chunk.js.map",
+    "index.html": "/vertage/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/vertage/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.d4a9dcf1.chunk.css.map": "/vertage/static/css/main.d4a9dcf1.chunk.css.map",
+    "static/js/2.d5097138.chunk.js.LICENSE.txt": "/vertage/static/js/2.d5097138.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/vertage/static/media/pt-sans-v12-latin-regular.ab33818f.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c939b34f.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.d5097138.chunk.js",
+    "static/css/main.d4a9dcf1.chunk.css",
+    "static/js/main.2b4f5005.chunk.js"
+  ]
+}
