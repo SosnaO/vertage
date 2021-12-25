@@ -1,0 +1,13 @@
+.gradientBlock {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 1em;
+  margin-bottom: 0.5em;
+}
+
+.itemText {
+  color: rgba(4, 4, 80, 1);
+  padding: 0 6px;
+  background-color: #ccc;
+}

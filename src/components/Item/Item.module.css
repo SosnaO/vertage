@@ -1,0 +1,20 @@
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 90vw;
+}
+
+.button {
+  margin-left: 0.5em;
+  padding: 0.2em 0.7em;
+  border-radius: 0.5em;
+  font-size: 1.2rem;
+  color: rgba(4, 4, 80, 0.9);
+  background-color: rgba(4, 4, 80, 0.2);
+  text-decoration: none;
+}
+.button:hover {
+  color: rgba(170, 10, 10, 0.9);
+}

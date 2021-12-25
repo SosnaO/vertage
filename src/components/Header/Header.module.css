@@ -1,0 +1,15 @@
+.title {
+  width: 100vw;
+  font-size: 38px;
+  line-height: 65px;
+  padding: 0.3em 0;
+  margin-bottom: 0.5em;
+  background-color: rgba(207, 86, 38, 0.5);
+}
+
+@media screen and (min-width: 560px) {
+  .title {
+    font-size: 48px;
+    padding: 0.5em 0;
+  }
+}
